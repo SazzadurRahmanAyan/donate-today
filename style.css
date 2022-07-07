@@ -94,3 +94,14 @@ input{
 #education-for-a-family{
     background-color: lavender;
 }
+footer{
+    text-align: center;
+    background-color: black;
+    color: gray;
+    padding-bottom: 1%;
+}
+.tangerine-font{
+    font-family: 'Tangerine', cursive;
+    font-size: 50px;
+    padding-top: 3%;
+}
