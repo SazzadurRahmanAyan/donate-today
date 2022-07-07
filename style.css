@@ -33,3 +33,33 @@ p{
     padding: 10px 40px;
     border-radius: 5px;
 }
+.donate-today p{
+    text-align: center;
+    color: black;
+}
+.text_7n{
+    font-style: normal;
+    font-weight: 700;
+}
+.text_fontSizeLarger{
+    font-size: 1.6em;
+    color: grey;
+    
+}
+.layout-center{
+    justify-content: center;
+    text-align: center;
+}
+.parent-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.number-width{
+    height: 250px;
+    margin: 20px;
+    width: 120px;
+}
+.orange-color{
+    color: orange;
+}
